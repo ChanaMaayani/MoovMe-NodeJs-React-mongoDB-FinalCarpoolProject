@@ -16,7 +16,7 @@ The system provides role-based access control (Passenger/Driver/Admin), user man
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** React  
 - **Backend:** Node.js (Express)  
 - **Database:** MongoDB  
